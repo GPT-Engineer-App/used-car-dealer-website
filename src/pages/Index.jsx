@@ -36,7 +36,7 @@ const Index = () => {
 
   return (
     <Box>
-      <Box backgroundImage="https://images.unsplash.com/photo-1601661075120-6a75f2f58b9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHx1c2VkJTIwY2FyJTIwZGVhbGVyc2hpcHxlbnwwfHx8fDE2ODA4MDgxMzZ8MA&ixlib=rb-4.0.3&q=80&w=1080" backgroundSize="cover" backgroundPosition="center" height="400px" display="flex" alignItems="center" justifyContent="center" flexDirection="column" textAlign="center" color="white">
+      <Box backgroundImage="https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyfHx1c2VkJTIwY2Fyc3xlbnwwfHx8fDE2ODA4MDg0NTZ8MA&ixlib=rb-4.0.3&q=80&w=1080" backgroundSize="cover" backgroundPosition="center" height="400px" display="flex" alignItems="center" justifyContent="center" flexDirection="column" textAlign="center" color="white">
         <Heading as="h1" size="2xl" mb={4}>
           Welcome to Route 66 Auto Sales
         </Heading>
