@@ -36,7 +36,7 @@ const Index = () => {
 
   return (
     <Box>
-      <Box backgroundImage="/images/IMG_0665.jpg" backgroundSize="cover" backgroundPosition="center" height="400px" display="flex" alignItems="center" justifyContent="center" flexDirection="column" textAlign="center" color="white">
+      <Box backgroundImage="images/IMG_0665.jpg" backgroundSize="cover" backgroundPosition="center" height="400px" display="flex" alignItems="center" justifyContent="center" flexDirection="column" textAlign="center" color="white">
         <Heading as="h1" size="2xl" mb={4}>
           Welcome to Route 66 Auto Sales
         </Heading>
