@@ -38,7 +38,7 @@ const Index = () => {
     <Box>
       <Box backgroundImage="https://images.unsplash.com/photo-1574023240744-64c47c8c0676?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxjYXIlMjBkZWFsZXJzaGlwfGVufDB8fHx8MTcxMjQyNDQwNXww&ixlib=rb-4.0.3&q=80&w=1080" backgroundSize="cover" backgroundPosition="center" height="400px" display="flex" alignItems="center" justifyContent="center" flexDirection="column" textAlign="center" color="white">
         <Heading as="h1" size="2xl" mb={4}>
-          Wheelz & Dealz Used Cars
+          Welcome to Used Car Dealership
         </Heading>
         <Text fontSize="xl">Find your dream car at an affordable price</Text>
       </Box>
